@@ -1,7 +1,7 @@
 #Talento Tech 
 #Programación Integrador
 # Proyecto colaborativo con Git y GitHub
-print("!Hola Bienvenidos al proyecto colaborativo en Python!")
+print("👍!Hola Bienvenidos al proyecto colaborativo en Python!")
 
 # Lista de contribuciones
 contribuciones = []
