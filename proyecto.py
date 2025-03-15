@@ -1,3 +1,5 @@
+#Talento Tech 
+#Programación Integrador
 # Proyecto colaborativo con Git y GitHub
 print("👋 ¡Bienvenidos al proyecto colaborativo en Python!")
 
