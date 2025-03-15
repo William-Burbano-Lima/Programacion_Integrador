@@ -13,3 +13,4 @@ def agregar_participacion(nombre, mensaje):
 # Mensaje del profesor
 agregar_participacion("Profesor", "¡Hola, programadores! Aprendamos Git juntos. 🚀")
 agregar_participacion("Estidiante", "Hola mi nombre es Lennin")
+agregar_participacion("Estidiante", "Hola mi nombre es  David Calero")
