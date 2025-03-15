@@ -18,3 +18,6 @@ agregar_participacion("Mensaje Cristian", "¡Hola, compañeros! 😊")
 
 # Participaciones de Cristian
 agregar_participacion("nuevo Mensaje Cristian", "¡Hola, compañeros! 😊")
+
+# Participaciones de Cristian x33
+agregar_participacion("nuevo Mensaje Cristian", "¡Hola, compañeros de nuevo! 😊")
