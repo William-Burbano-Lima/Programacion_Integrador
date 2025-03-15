@@ -2,6 +2,11 @@
 #Programación Integrador
 # Proyecto colaborativo con Git y GitHub
 print("👋 ¡Bienvenidos al proyecto colaborativo en Python!")
+print("🚀 Aprendamos Git y GitHub juntos. 🐍")
+
+
+
+
 
 # Lista de contribuciones
 contribuciones = []
